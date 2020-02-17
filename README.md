@@ -4,8 +4,8 @@ DOE - Sistema de doação de sangue. Aplicação web desenvolvida na Maratona De
 
 # Imagem da aplicação
 
-<img src="prev/prev01.png">
+<img src="Prev/prev01.png">
 </br>
 
-<img src="prev/prev02.png">
+<img src="Prev/prev02.png">
 </br>
